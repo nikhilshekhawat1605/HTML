@@ -1,6 +1,6 @@
 # HTML
 
-# 7 Page of HTML basic website.
+# 7 Page of Basic HTML Website.
 
 - 1.Index.html
   📷 ![alt text](image.png)
@@ -15,4 +15,5 @@
 - 6.Registrations.html
   📷 ![alt text](image-4.png)
 - 7.Login.html
-  📷 ![alt text](image-5.png)
+  📷
+  ![alt text](image-5.png)
